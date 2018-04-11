@@ -8,4 +8,4 @@ Comandos:
 AlarmaCasa
 ferbot
 /mybots
-Y devuelvela API Token que debe ponerse en 
+Y devuelvela API Token que debe ponerse en BotToken[50] dentro del codigo
