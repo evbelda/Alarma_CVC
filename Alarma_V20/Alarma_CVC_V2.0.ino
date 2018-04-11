@@ -6,7 +6,6 @@
 #include <Wire.h>
 #include "RTClib.h"  
 
-
 char BotToken[50] = "352056115:AAFRNjyshZNlKjcyAaDqzDpezn77YK6x0bM";    // your Bot Token;
 char BOTname[50] = "AlarmaCasa";
 char BOTusername[50] = "@evbeldabot";
